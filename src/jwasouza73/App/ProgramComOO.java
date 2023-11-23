@@ -5,7 +5,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import jwasouza73.entities.Triangle;
 
-public class Program {
+public class ProgramComOO {
 	
 	public static void main(String[] args) {
 		
